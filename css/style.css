@@ -39,5 +39,6 @@ p {
 }
 
 #footer {
-	text-align: left;
+	float: right;
+	font-size: 0.8em;
 }
