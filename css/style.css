@@ -32,7 +32,7 @@ header a {
 
 h2 {
 	font-size: 2em;
-	font-family: 'Times New Roman', serif;
+	color: rbg(111, 127, 122)
 }
 
 #featured {
