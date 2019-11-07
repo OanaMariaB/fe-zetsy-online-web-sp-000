@@ -26,6 +26,10 @@ h1 {
 	padding-bottom: 1px solid #ccc;
 }
 
+header a {
+	color: #98ADA6
+}
+
 h2 {
 	font-size: 32px;
 	font-family: 'Times New Roman', serif;
