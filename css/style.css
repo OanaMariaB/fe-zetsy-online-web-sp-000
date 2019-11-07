@@ -35,6 +35,12 @@ h2 {
 	color: rgb(111, 127, 122);
 }
 
+p {
+	color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0;
+}
+
 #featured {
 	font-size: 16px;
 	font-family: 'Times New Roman', serif;
