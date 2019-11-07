@@ -37,3 +37,7 @@ p {
 	font-family: 'Times New Roman', serif;
 	color: #555555;
 }
+
+#footer {
+	text-align: left;
+}
