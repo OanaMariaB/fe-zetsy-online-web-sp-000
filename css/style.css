@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-h1 {
+h1, h2 {
 	color: #6F7F7A;
 	font: 80px, 'Baskerville', serif;
 }
