@@ -19,7 +19,6 @@ body {
 
 /* Write all remaining styles here */
 
-h1 {
+#heading {
 	color: #6F7F7A;
-	font: 80px, 'Baskerville', serif;
 }
