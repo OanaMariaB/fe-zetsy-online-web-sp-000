@@ -8,6 +8,7 @@ body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
+	color: #6F7F7A;
 }
 
 .wrapper {
@@ -19,9 +20,6 @@ body {
 
 /* Write all remaining styles here */
 
-#heading {
-	color: #6F7F7A;
-}
 
 h1 {
 	font-size: 80px;
