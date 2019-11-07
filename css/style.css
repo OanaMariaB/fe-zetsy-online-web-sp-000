@@ -39,7 +39,8 @@ h2 {
 }
 
 #featured img {
-	border: 5px rbg(152, 173, 166) solid;
+	border: 5px #ccc solid;
+	padding: 1px;
 }
 
 p {
